@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800">
+<line x1="700.0" y1="400.0" x2="596.5" y2="626.7" stroke="#888" stroke-width="2" />
+<text x="648.2" y="513.4" font-size="14" fill="#333" text-anchor="middle" dy="-5">2920 km</text>
+<line x1="700.0" y1="400.0" x2="652.4" y2="562.2" stroke="#888" stroke-width="2" />
+<text x="676.2" y="481.1" font-size="14" fill="#333" text-anchor="middle" dy="-5">1140 km</text>
+<line x1="700.0" y1="400.0" x2="687.8" y2="484.5" stroke="#888" stroke-width="2" />
+<text x="693.9" y="442.3" font-size="14" fill="#333" text-anchor="middle" dy="-5">2460 km</text>
+<line x1="687.8" y1="484.5" x2="357.3" y2="103.1" stroke="#888" stroke-width="2" />
+<text x="522.6" y="293.8" font-size="14" fill="#333" text-anchor="middle" dy="-5">870 km</text>
+<line x1="687.8" y1="484.5" x2="275.4" y2="127.1" stroke="#888" stroke-width="2" />
+<text x="481.6" y="305.8" font-size="14" fill="#333" text-anchor="middle" dy="-5">1130 km</text>
+<line x1="687.8" y1="484.5" x2="524.6" y2="672.9" stroke="#888" stroke-width="2" />
+<text x="606.2" y="578.7" font-size="14" fill="#333" text-anchor="middle" dy="-5">1890 km</text>
+<line x1="652.4" y1="562.2" x2="596.5" y2="626.7" stroke="#888" stroke-width="2" />
+<text x="624.4" y="594.5" font-size="14" fill="#333" text-anchor="middle" dy="-5">1980 km</text>
+<line x1="652.4" y1="562.2" x2="524.6" y2="127.1" stroke="#888" stroke-width="2" />
+<text x="588.5" y="344.7" font-size="14" fill="#333" text-anchor="middle" dy="-5">200 km</text>
+<line x1="596.5" y1="626.7" x2="596.5" y2="173.3" stroke="#888" stroke-width="2" />
+<text x="596.5" y="400.0" font-size="14" fill="#333" text-anchor="middle" dy="-5">360 km</text>
+<line x1="524.6" y1="672.9" x2="652.4" y2="237.8" stroke="#888" stroke-width="2" />
+<text x="588.5" y="455.3" font-size="14" fill="#333" text-anchor="middle" dy="-5">1020 km</text>
+<line x1="524.6" y1="672.9" x2="596.5" y2="173.3" stroke="#888" stroke-width="2" />
+<text x="560.5" y="423.1" font-size="14" fill="#333" text-anchor="middle" dy="-5">4320 km</text>
+<line x1="524.6" y1="672.9" x2="203.5" y2="173.3" stroke="#888" stroke-width="2" />
+<text x="364.1" y="423.1" font-size="14" fill="#333" text-anchor="middle" dy="-5">735 km</text>
+<line x1="524.6" y1="672.9" x2="147.6" y2="237.8" stroke="#888" stroke-width="2" />
+<text x="336.1" y="455.3" font-size="14" fill="#333" text-anchor="middle" dy="-5">770 km</text>
+<line x1="524.6" y1="672.9" x2="442.7" y2="696.9" stroke="#888" stroke-width="2" />
+<text x="483.7" y="684.9" font-size="14" fill="#333" text-anchor="middle" dy="-5">3160 km</text>
+<line x1="442.7" y1="696.9" x2="442.7" y2="103.1" stroke="#888" stroke-width="2" />
+<text x="442.7" y="400.0" font-size="14" fill="#333" text-anchor="middle" dy="-5">1210 km</text>
+<line x1="442.7" y1="696.9" x2="357.3" y2="696.9" stroke="#888" stroke-width="2" />
+<text x="400.0" y="696.9" font-size="14" fill="#333" text-anchor="middle" dy="-5">2500 km</text>
+<line x1="357.3" y1="696.9" x2="203.5" y2="626.7" stroke="#888" stroke-width="2" />
+<text x="280.4" y="661.8" font-size="14" fill="#333" text-anchor="middle" dy="-5">2800 km</text>
+<line x1="357.3" y1="696.9" x2="275.4" y2="672.9" stroke="#888" stroke-width="2" />
+<text x="316.3" y="684.9" font-size="14" fill="#333" text-anchor="middle" dy="-5">540 km</text>
+<line x1="203.5" y1="626.7" x2="147.6" y2="562.2" stroke="#888" stroke-width="2" />
+<text x="175.6" y="594.5" font-size="14" fill="#333" text-anchor="middle" dy="-5">1145 km</text>
+<line x1="147.6" y1="562.2" x2="112.2" y2="484.5" stroke="#888" stroke-width="2" />
+<text x="129.9" y="523.4" font-size="14" fill="#333" text-anchor="middle" dy="-5">1755 km</text>
+<line x1="112.2" y1="484.5" x2="687.8" y2="315.5" stroke="#888" stroke-width="2" />
+<text x="400.0" y="400.0" font-size="14" fill="#333" text-anchor="middle" dy="-5">1340 km</text>
+<line x1="112.2" y1="484.5" x2="652.4" y2="237.8" stroke="#888" stroke-width="2" />
+<text x="382.3" y="361.2" font-size="14" fill="#333" text-anchor="middle" dy="-5">2200 km</text>
+<line x1="112.2" y1="484.5" x2="100.0" y2="400.0" stroke="#888" stroke-width="2" />
+<text x="106.1" y="442.3" font-size="14" fill="#333" text-anchor="middle" dy="-5">370 km</text>
+<line x1="100.0" y1="400.0" x2="112.2" y2="315.5" stroke="#888" stroke-width="2" />
+<text x="106.1" y="357.7" font-size="14" fill="#333" text-anchor="middle" dy="-5">510 km</text>
+<line x1="112.2" y1="315.5" x2="147.6" y2="237.8" stroke="#888" stroke-width="2" />
+<text x="129.9" y="276.6" font-size="14" fill="#333" text-anchor="middle" dy="-5">1600 km</text>
+<line x1="203.5" y1="173.3" x2="275.4" y2="127.1" stroke="#888" stroke-width="2" />
+<text x="239.5" y="150.2" font-size="14" fill="#333" text-anchor="middle" dy="-5">270 km</text>
+<line x1="357.3" y1="103.1" x2="442.7" y2="103.1" stroke="#888" stroke-width="2" />
+<text x="400.0" y="103.1" font-size="14" fill="#333" text-anchor="middle" dy="-5">850 km</text>
+<line x1="652.4" y1="237.8" x2="687.8" y2="315.5" stroke="#888" stroke-width="2" />
+<text x="670.1" y="276.6" font-size="14" fill="#333" text-anchor="middle" dy="-5">910 km</text>
+<circle cx="700.0" cy="400.0" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="700.0" y="400.0" font-size="14" fill="#fff" text-anchor="middle" dy="5">SCL</text>
+<circle cx="687.8" cy="484.5" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="687.8" y="484.5" font-size="14" fill="#fff" text-anchor="middle" dy="5">LIM</text>
+<circle cx="652.4" cy="562.2" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="652.4" y="562.2" font-size="14" fill="#fff" text-anchor="middle" dy="5">BUE</text>
+<circle cx="596.5" cy="626.7" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="596.5" y="626.7" font-size="14" fill="#fff" text-anchor="middle" dy="5">RIO</text>
+<circle cx="524.6" cy="672.9" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="524.6" y="672.9" font-size="14" fill="#fff" text-anchor="middle" dy="5">BOG</text>
+<circle cx="442.7" cy="696.9" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="442.7" y="696.9" font-size="14" fill="#fff" text-anchor="middle" dy="5">MEX</text>
+<circle cx="357.3" cy="696.9" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="357.3" y="696.9" font-size="14" fill="#fff" text-anchor="middle" dy="5">LAX</text>
+<circle cx="275.4" cy="672.9" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="275.4" y="672.9" font-size="14" fill="#fff" text-anchor="middle" dy="5">SFO</text>
+<circle cx="203.5" cy="626.7" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="203.5" y="626.7" font-size="14" fill="#fff" text-anchor="middle" dy="5">CHI</text>
+<circle cx="147.6" cy="562.2" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="147.6" y="562.2" font-size="14" fill="#fff" text-anchor="middle" dy="5">NYC</text>
+<circle cx="112.2" cy="484.5" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="112.2" y="484.5" font-size="14" fill="#fff" text-anchor="middle" dy="5">MIA</text>
+<circle cx="100.0" cy="400.0" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="100.0" y="400.0" font-size="14" fill="#fff" text-anchor="middle" dy="5">HAV</text>
+<circle cx="112.2" cy="315.5" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="112.2" y="315.5" font-size="14" fill="#fff" text-anchor="middle" dy="5">CUN</text>
+<circle cx="147.6" cy="237.8" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="147.6" y="237.8" font-size="14" fill="#fff" text-anchor="middle" dy="5">PTY</text>
+<circle cx="203.5" cy="173.3" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="203.5" y="173.3" font-size="14" fill="#fff" text-anchor="middle" dy="5">QUI</text>
+<circle cx="275.4" cy="127.1" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="275.4" y="127.1" font-size="14" fill="#fff" text-anchor="middle" dy="5">GYE</text>
+<circle cx="357.3" cy="103.1" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="357.3" y="103.1" font-size="14" fill="#fff" text-anchor="middle" dy="5">LAP</text>
+<circle cx="442.7" cy="103.1" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="442.7" y="103.1" font-size="14" fill="#fff" text-anchor="middle" dy="5">LPA</text>
+<circle cx="524.6" cy="127.1" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="524.6" y="127.1" font-size="14" fill="#fff" text-anchor="middle" dy="5">MVD</text>
+<circle cx="596.5" cy="173.3" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="596.5" y="173.3" font-size="14" fill="#fff" text-anchor="middle" dy="5">SAO</text>
+<circle cx="652.4" cy="237.8" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="652.4" y="237.8" font-size="14" fill="#fff" text-anchor="middle" dy="5">CCS</text>
+<circle cx="687.8" cy="315.5" r="25" fill="#4e79a7" stroke="#222" stroke-width="2" />
+<text x="687.8" y="315.5" font-size="14" fill="#fff" text-anchor="middle" dy="5">SDQ</text>
+</svg>
